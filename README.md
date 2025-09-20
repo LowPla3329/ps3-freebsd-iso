@@ -11,6 +11,7 @@ Visit the [Releases page](https://github.com/LowPla3329/ps3-freebsd-iso/releases
 ## Important Note
 **First, you MUST install the storage initializer package, otherwise release-003 and newer releases will not boot!**
 It can be downloaded from this release page.
+If the FreeBSD environment is broken(or if you executed rm -rf / lol), delete the FreeBSD save file from the XMB game data utility.
 
 ## Guide
 1. Resize the VFLASH from the OtherOS tools in the Custom Firmware menu.
